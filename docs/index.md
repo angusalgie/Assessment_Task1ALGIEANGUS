@@ -57,3 +57,4 @@ European Parliament 2024, *EU Artificial Intelligence Act: New rules for AI syst
 Smith, J & Kumar, R 2024, ‘Algorithmic bias in modern AI systems: Challenges and solutions’, *Journal of Digital Ethics*, vol. 12, no. 2, pp. 45–62.
 
 TechVision 2024, *How GPT‑5 will change society*, YouTube, 22 May. Available at: https://www.youtube.com/ (Accessed: 29 July 2026).
+
