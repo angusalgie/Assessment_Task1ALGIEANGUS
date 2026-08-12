@@ -38,7 +38,7 @@ This peer reviewed article from 2024 examines how virtue ethics can be applied t
 I chose this article as an artefact as virtue ethics allows for a more personal and character focused approach to ethical decision making. This complements the other theories learnt well. This artefact has also helped me to understand how ethical behaviour in ICT is shaped not only by rules and outcomes but also by the values and habits of the professionals. The case studies also helped to make the ideas feel relevant and practical for workplaces. 
 ---
 
-## Artefact 4: ABC News Report (2024) – Ethical Concerns in AI Decision‑Making
+## Artefact 4: ABC News Report (2024) – Ethical Concerns in AI Decision Making
 
 ### Summary  
 Throughout this ABC news report from 2024, ethical concerns about AI systems and their use in government services, employment screening and predictive analysis are discussed. The segment highlights the key issues associated with these concerns, such as fairness, transparency and accountability. The segment also includes interviews with ethicists and ICT professionals to get their inputs. The report also explains how different ethical theories such as utilitarianism, Kantian ethics and virtue ethics can lead to different conclusions about the same AI system. 
