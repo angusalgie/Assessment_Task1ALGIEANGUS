@@ -1,5 +1,5 @@
 # E‑Portfolio 2 – Ethical Theory  
-**Student:** Angus  
+**Student:** Angus Algie
 **Unit:** COIT11223 ICT Ethics and Governance in Society  
 **Week 4 – Ethical Theory**  
 
