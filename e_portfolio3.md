@@ -7,7 +7,7 @@
 
 ## Artefact 1: ABC News Report (2025) – Copyright Battles Over AI Training Data
 
-![AI Training Data Placeholder](images/ai_training_data.jpg)
+<img src="images/ai_training_data.jpg" width="300" height="300">
 
 ### Summary  
 This ABC news report from 2025 is an investigation into the growing legal disputes between creators and AI companies over the use of copyrighted material in training datasets. The report highlighted cases where artists, photographers and writers discovered that their work had been taken from online platforms without their consent. Many legal experts commented on the issue stating that existing copyright laws currently struggle to define ownership when AI models generate new content based on millions of copyrighted inputs. The report also covered new Australian reforms including transparency requirements for dataset sources and compensation models for creators. 
@@ -18,7 +18,7 @@ I chose to use this artefact because it aligned directly with our week 7 worksho
 
 ## Artefact 2: Scholarly Article (2023) – “Digital Piracy and the Erosion of Creative Rights”
 
-![Digital Piracy Placeholder](images/digital_piracy.jpg)
+<img src="images/digital_piracy.jpg" width="300" height="300">
 
 ### Summary  
 This 2023 article directly examines how digital piracy continues to undermine intellectual property protections in online environments. The article's author examines this through a number of case studies, involving things like film, music and software piracy. This demonstrates how easily digital content can be copied, shared and monetized without permission. The article argues that traditional enforcement strategies are becoming less effective due to decentralised platforms as well as anonymous distribution networks, while also highlighting the ethical implications of piracy. The article notes that piracy makes creators lose income, recognition and control over their work. The paper also proposes a solution through updated governance frameworks that combine legal enforcement with education, platform accountability and technological safeguards.
@@ -32,7 +32,7 @@ I selected to use this article as one of my artefacts because of its connection 
 
 ## Artefact 3: YouTube Video (2022) – “Who Really Owns Digital Content?”
 
-![Digital Ownership Placeholder](images/digital_ownership.jpg)
+<img src="images/digital_ownership.jpg" width="300" height="300">
 
 ### Summary  
 This youtube video from 2022 explores the complexities of digital ownership in an era where content is constantly shared. The creator does this by explaining how licensing agreements, platform policies and copyright laws determine who owns digital content even when users believe they have full control. The video also highlights the examples involving social media posts, digital art and cloud stored files. This shows how ownership often depends on terms of service rather than traditional copyright rules. The video also discusses how creators can lose control once their work is uploaded, especially when platforms reserve broad usage rights.
@@ -45,7 +45,7 @@ I chose this as my third artefact due to how it helped me to understand how IP i
 
 ## Artefact 4: Workshop Artefact – Week 7 Discussion on Privacy, IP and Automated Decision‑Making
 
-![Workshop Discussion Placeholder](images/selfie.jpg)
+<img src="images/selfie.jpg" width="300" height="300">
 
 ### Summary  
 During the week 7 workshop, automated decision making systems were discussed. We discussed how these systems rely on large data sets that often include copyrighted material and emphasised the importance of referencing sources correctly and respecting IP when using digital artefacts. We also discussed how creators end up losing control when their work enters online systems, especially when it is reused without their consent. The conversation highlighted the ethical responsibility ICT professionals have to ensure transparency, fairness and respect for creators rights. Furthermore, the workshop reinforced the idea that ethical ICT practice requires careful consideration of how digital content is shared, stored and reused.
@@ -63,4 +63,3 @@ ABC News 2025, *Copyright battles over AI training data*, ABC News, 14 May. Avai
 Green, L & Foster, R 2023, ‘Digital piracy and the erosion of creative rights’, *Journal of Online Media Ethics*, vol. 11, no. 2, pp. 55–72.
 
 TechLaw Explained 2022, *Who really owns digital content?*, YouTube, 8 June. Available at: https://www.youtube.com/ (Accessed: 9 September 2026).
-
