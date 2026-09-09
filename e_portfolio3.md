@@ -1,6 +1,6 @@
 # E‑Portfolio 3 – Intellectual Property  
-**Student:** Angus Algie
-**Unit:** COIT11223 ICT Ethics and Governance in Society  
+**Student: Angus Algie**
+**Unit: COIT11223 ICT Ethics and Governance in Society**
 **Week 7 – Intellectual Property**  
 
 ---
