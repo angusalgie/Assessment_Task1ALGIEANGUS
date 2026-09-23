@@ -6,7 +6,7 @@
  
 # Artefact 1: Australia's Social Media Minimum Age Legislation
 
-<img src="images/example.jpg" width="350" height="350">
+<img src="images/artefact1.jpg" width="350" height="350">
 
 ## Summary
 Artefact 1 is the 2024 Online Safety Amendment Act. This legislation introduces age restrictions for certain social media platforms, as well as requiring providers to take reasonable steps to prevent Australian children under the age of sixteen from holding social media accounts. The legislation was created with the goal of reducing exposure to harmful online content as well as to improve online safety for younger users.
@@ -21,7 +21,7 @@ I selected this as my first artefact as it demonstrates a very current example o
  
 # Artefact 2: Freedom on the Net 2024 Report
  
-<img src="images/example.jpg" width="350" height="350">
+<img src="images/artefact2.jpg" width="350" height="350">
 
 ## Summary
 This 2024 Freedom on the internet report examines internet freedom across multiple countries while also identifying declining online freedom, censorship, election interference, internet shutdowns and government control of online information. The article also highlights how governments are increasingly influencing what citizens can access and share online.
@@ -35,7 +35,7 @@ I chose to use this as one of my artefacts as it demonstrates why censorship is 
  
 # Artefact 3: eSafety Industry Regulation Framework
 
-<img src="images/example.jpg" width="350" height="350">
+<img src="images/artefact3.jpg" width="350" height="350">
  
 ## Summary
 This artefact is the Australian eSafety Commissioner's industry regulation framework from 2025. The framework outlines the powers provided under the Online Safety Act and describes how online service providers are expected to reduce harmful content, respond to complaints, protect children and improve online safety. The framework demonstrates how government agencies work directly with technology companies to regulate online behaviour and digital platforms. 
@@ -50,7 +50,7 @@ Furthermore, I selected this artefact as it demonstrates how governance operates
  
 # Artefact 4: Workshop Discussion on Censorship and Personal Responsibility
 
-<img src="images/example.jpg" width="350" height="350">
+<img src="images/artefact4.jpg" width="350" height="350">
  
 ## Summary
 During the workshop we discussed censorship, government regulation, parental controls as well as age verification systems and freedom of expression. Several of my classmates argued that governments are increasingly expected to regulate behaviour that individuals could address through personal responsibility and education, with one comment suggesting that education is more effective than censorship because banning content may increase curiosity and encourage individuals to seek information elsewhere.
