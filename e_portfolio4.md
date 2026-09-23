@@ -1,5 +1,7 @@
-# COIT11223 ICT Ethics and Governance in Society
-# E-Portfolio 4 – Censorship and Government
+# E‑Portfolio 3 – Intellectual Property  
+**Student:** Angus Algie
+**Unit:** COIT11223 ICT Ethics and Governance in Society  
+**Week 9 – Censorship and Government**  
 ---
  
 # #Artefact 1: Australia's Social Media Minimum Age Legislation
