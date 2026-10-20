@@ -102,7 +102,7 @@ I chose to use this artefact as it demonstrates that ethical ICT practice is not
 
 # Artefact 6: Workshop Reflection
 
-![Artifact 6](images/artefact6.png)
+![Artifact 6](images/artefact4.jpg)
 
 ## Source
 Workshop Notes and Discussion 
