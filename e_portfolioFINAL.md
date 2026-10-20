@@ -6,7 +6,7 @@
 
 # Artefact 1: Understanding ADM in Government
 
-![Artifact 1](images/artefact1.png)
+![Artefact 1](images/artefact1.png)
 
 ## Source
 OECD AI in Government Overview
@@ -25,7 +25,7 @@ I selected this artefact because it provided a strong foundation for understandi
 
 # Artefact 2: The Robodebt Royal Commission
 
-![Artifact 2](images/artefact2.png)
+![Artefact 2](images/artefact2.png)
 
 ## Source
 Royal Commission into the Robodebt Scheme
@@ -45,7 +45,7 @@ I selected this artefact because it is one of the most significant examples of A
 
 # Artefact 3: The Algorithm Behind Robodebt
 
-![Artifact 3](images/artefact3.png)
+![Artefact 3](images/artefact3.png)
 
 ## Source
 University of Melbourne – The Flawed Algorithm at the Heart of Robodebt
@@ -64,7 +64,7 @@ I chose this artefact because it illustrates that ICT professionals have respons
 
 # Artefact 4: Dutch Childcare Benefits Scandal
 
-![Artifact 4](images/artefact4.png)
+![Artefact 4](images/artefact4.png)
 
 ## Source
 Politico – Dutch Childcare Benefits Scandal
@@ -84,7 +84,7 @@ I selected this as one of my artefacts as it provided me with an international p
 
 # Artefact 5: Governing with Artificial Intelligence
 
-![Artifact 5](images/artefact5.png)
+![Artefact 5](images/artefact5.png)
 
 ## Source
 OECD – Governing with Artificial Intelligence
@@ -102,7 +102,7 @@ I chose to use this artefact as it demonstrates that ethical ICT practice is not
 
 # Artefact 6: Workshop Reflection
 
-![Artifact 6](images/artefact4.jpg)
+![Artefact 6](images/artefact4.jpg)
 
 ## Source
 Workshop Notes and Discussion 
