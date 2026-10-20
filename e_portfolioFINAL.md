@@ -1,7 +1,6 @@
-# E‑Portfolio 3 – Intellectual Property  
+# E‑Portfolio 4 and Final
 **Student:** Angus Algie
 **Unit:** COIT11223 ICT Ethics and Governance in Society  
-**Week 9 – Censorship and Government**  
 ---
 
 # Artefact 1: Understanding ADM in Government
