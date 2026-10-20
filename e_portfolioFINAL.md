@@ -122,19 +122,19 @@ I selected this artefact because it demonstrates how my perspective changed thro
 
 # References
 
-Heikkilä, M 2022, 'Dutch scandal serves as a warning for Europe over risks of using algorithms', *Politico*, 29 March, viewed 23 September 2026, <https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-over-risks-of-using-algorithms/>. 【1-b5b0a0】
+Heikkilä, M 2022, 'Dutch scandal serves as a warning for Europe over risks of using algorithms', *Politico*, 29 March, viewed 23 September 2026, <https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-over-risks-of-using-algorithms/>. 
 
-Murray, T, Cheong, M & Paterson, J 2023, 'The flawed algorithm at the heart of Robodebt', *Pursuit*, University of Melbourne, 10 July, viewed 23 September 2026, <https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt>. 【2-df0ca8】
+Murray, T, Cheong, M & Paterson, J 2023, 'The flawed algorithm at the heart of Robodebt', *Pursuit*, University of Melbourne, 10 July, viewed 23 September 2026, <https://pursuit.unimelb.edu.au/articles/the-flawed-algorithm-at-the-heart-of-robodebt>. 
 
-OECD AI 2025, *AI in Government: Overview*, Organisation for Economic Co-operation and Development, viewed 23 September 2026, <https://oecd.ai/en/gov/issues/overview>. 【3-16bda2】
+OECD AI 2025, *AI in Government: Overview*, Organisation for Economic Co-operation and Development, viewed 23 September 2026, <https://oecd.ai/en/gov/issues/overview>. 
 
-OECD AI 2025, *Governing with Artificial Intelligence: The state of play and way forward in core government functions*, Organisation for Economic Co-operation and Development, viewed 23 September 2026, <https://oecd.ai/en/ai-publications/governing-with-ai>. 【4-d931c6】
+OECD AI 2025, *Governing with Artificial Intelligence: The state of play and way forward in core government functions*, Organisation for Economic Co-operation and Development, viewed 23 September 2026, <https://oecd.ai/en/ai-publications/governing-with-ai>. 
 
-Royal Commission into the Robodebt Scheme 2023, *Report of the Royal Commission into the Robodebt Scheme*, Commonwealth of Australia, viewed 23 September 2026, <https://robodebt.royalcommission.gov.au/publications/report>. 【5-cf5ed8】
+Royal Commission into the Robodebt Scheme 2023, *Report of the Royal Commission into the Robodebt Scheme*, Commonwealth of Australia, viewed 23 September 2026, <https://robodebt.royalcommission.gov.au/publications/report>. 
 
-Royal Commissions 2023, *Robodebt Scheme*, Australian Government, viewed 23 September 2026, <https://www.royalcommission.gov.au/robodebt>. 【6-30656c】
+Royal Commissions 2023, *Robodebt Scheme*, Australian Government, viewed 23 September 2026, <https://www.royalcommission.gov.au/robodebt>. 
 
-Tosun Çobanoğlu, T 2026, 'Algorithms and the best interests of the child: Lessons from the Dutch childcare scandal', *Oxford Human Rights Hub*, 26 March, viewed 23 September 2026, <https://ohrh.law.ox.ac.uk/algorithms-and-the-best-interests-of-the-child-lessons-from-the-dutch-childcare-scandal/>. 【7-ecc4da】
+Tosun Çobanoğlu, T 2026, 'Algorithms and the best interests of the child: Lessons from the Dutch childcare scandal', *Oxford Human Rights Hub*, 26 March, viewed 23 September 2026, <https://ohrh.law.ox.ac.uk/algorithms-and-the-best-interests-of-the-child-lessons-from-the-dutch-childcare-scandal/>. 
 
 Workshop discussion notes 2026, *COIT11223 ICT Ethics and Governance in Society ADM workshop activities and reflections*, CQUniversity, personal learning artefact.
 
