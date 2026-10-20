@@ -2,18 +2,20 @@
 **Student:** Angus Algie
 **Unit:** COIT11223 ICT Ethics and Governance in Society  
 **Week 9 – Censorship and Government**  
+---
+
 # Artefact 1: Understanding ADM in Government
 
 ![Artifact 1](images/artefact1.png)
 
-### Source
+## Source
 OECD AI in Government Overview
 
-### Summary
+## Summary
 
 This artefact is a report that explains how governments are using artificial intelligence and automated decision making systems in places such as public services, justice systems and policy development. The source identifies both opportunities and risks for implementing this highlighting that AI can improve efficiency and responsiveness while also introducing concerns like privacy, transparency and fairness.
 
-### Reflection and Justification
+## Reflection and Justification
 
 Before reading this resource I had viewed ADM as a technical solution designed primarily to improve efficiency, yet after reading the sourceI learned that ADM systems influence decisions that directly affect citizens' lives. As well as their access to things like welfare, healthcare and public services. This broadened my understanding of technology and showed that technical decisions often become social and ethical decisions.
 
@@ -25,14 +27,14 @@ I selected this artefact because it provided a strong foundation for understandi
 
 ![Artifact 2](images/artefact2.png)
 
-### Source
+## Source
 Royal Commission into the Robodebt Scheme
 
-### Summary
+## Summary
 
 The Robodebt Royal Commission investigated the use of an automated debt recovery system implemented by the Australian Government. The system generated debt noticed that  using income averaging methods were actually inaccurate.
 
-### Reflection and Justification
+## Reflection and Justification
 
 This artefact changed my perspective on ADM as before studying Robodebt I had believed automated systems were more objective and accurate than humans, however after reading I learned that automation can amplify mistakes when incorrect assumptions are built into system design. Instead of reducing harm, the system contributed to widespread financial and emotional distress.
 
@@ -45,14 +47,14 @@ I selected this artefact because it is one of the most significant examples of A
 
 ![Artifact 3](images/artefact3.png)
 
-### Source
+## Source
 University of Melbourne – The Flawed Algorithm at the Heart of Robodebt
 
-### Summary
+## Summary
 
 This article explains the technical operation of the Robodebt algorithm and also demonstrates how income averaging created inaccurate debt calculations. The article also further explores how a seemingly simple ADM system generated significant social consequences because of flawed assumptions and inadequate oversight.
 
-### Reflection and Justification
+## Reflection and Justification
 
 This artefact helped me understand how technical design decisions can have significant societal impacts, as while studying this source I learned that a system can perform exactly as intended while still producing harmful outcomes. Whereas prior to this unit I often separated technical issues from ethical issues. 
 
@@ -64,14 +66,14 @@ I chose this artefact because it illustrates that ICT professionals have respons
 
 ![Artifact 4](images/artefact4.png)
 
-### Source
+## Source
 Politico – Dutch Childcare Benefits Scandal
 
-### Summary
+## Summary
 
 This artefact examines how Dutch tax authorities used algorithmic profiling to identify potential fraud. The article found that thousands of families were incorrectly identified as risks and experienced severe financial hardship. Due to this the scandal became an internationally recognised example of the dangers associated with poorly governed ADM systems.
 
-### Reflection and Justification
+## Reflection and Justification
 
 Before exploring this case I had assumed that Australia's experience with Robodebt was unusual but reading this artefact reinforced this idea by showing that similar ADM failures have occurred internationally. I also learned that algorithms can reinforce existing inequalities and disproportionately affect vulnerable populations when fairness and transparency are not prioritised.
 
@@ -84,14 +86,14 @@ I selected this as one of my artefacts as it provided me with an international p
 
 ![Artifact 5](images/artefact5.png)
 
-### Source
+## Source
 OECD – Governing with Artificial Intelligence
 
-### Summary
+## Summary
 
 This report examined hundreds of government AI applications and discussed the governance mechanisms required for trustworthy ADM systems while also identifying the opportunities such as improved efficiency, fraud detection and service delivery associated with it. The report also made sure to talk about the negative impacts associated with the implementation of such applications.
 
-### Reflection and Justification
+## Reflection and Justification
 
 Many discussions regarding ADM focus on failures but this artefact helped me develop a more balanced perspective as it also talked about the benefits. I learned that ADM can provide significant benefits when supported by strong governance frameworks. The problem is often not the technology itself but the way it is implemented and monitored.
 
@@ -102,14 +104,14 @@ I chose to use this artefact as it demonstrates that ethical ICT practice is not
 
 ![Artifact 6](images/artefact6.png)
 
-### Source
+## Source
 Workshop Notes and Discussion 
 
-### Summary
+## Summary
 
 During the workshop activities in this unit many students discussed algorithmic bias, transparency, accountability and the social impacts of automated decision making systems. The discussions also focused on fairness, government responsibility and the ethical obligations of ICT professionals.
 
-### Reflection and Justification
+## Reflection and Justification
 
 The workshops were definitely the most valuable learning experience for me throughout the term as they allowed me to reflect on multiple viewpoints. Before participating in these workshops I generally trusted automated systems provided they met technical requirements but through discussion and case study analysis I became more aware of the social consequences that can emerge when ethical concerns are overlooked.
 
