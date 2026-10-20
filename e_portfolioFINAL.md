@@ -1,14 +1,7 @@
-# COIT11223 ICT Ethics and Governance in Society
-# E-Portfolio 5: Automated Decision Making (ADM) in Government Systems
-
-## Student Name
-Your Name
-
-## Student Number
-12345678
-
-—
-
+# E‑Portfolio 3 – Intellectual Property  
+**Student:** Angus Algie
+**Unit:** COIT11223 ICT Ethics and Governance in Society  
+**Week 9 – Censorship and Government**  
 # Artefact 1: Understanding ADM in Government
 
 ![Artifact 1](images/artefact1.png)
